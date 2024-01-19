@@ -1,0 +1,32 @@
+
+.oddNumber{
+    background: pink;
+}
+
+.oddNumber.verdana{
+    font-family: Verdana;
+}
+
+.oddNumber.DejaVu {
+    font-family: dejavu-sans;
+}
+
+
+.oddNumber.sans{
+    font-family: sans-serif;
+}
+
+#second{
+    color:blue;
+    font-size:36px;
+}
+
+.oddNumber.three{
+    font-size: 24px;
+}
+
+#fourth{
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
